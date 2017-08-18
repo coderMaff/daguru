@@ -1,0 +1,22 @@
+PC .SYS File          000000 4 FFFFFFFF 15
+PC Executable/DLL/COM 000000 2 4D5A     12
+Amiga Exectuable      000000 4 000003F3 15
+PKZIP Archive         000000 2 504B0304 23
+DMS Archive (AMIGA)   000000 4 444D5321 15
+LHA / LZH Archive     000002 3 2D6C68   24
+LZX Archive (AMIGA)   000000 4 4C5A5800 15
+Derek Squished File   000000 2 0006     15
+ARJ File              000024 3 41524A   15
+Targa Picture         000002 2 0200     41
+TIF Picture           000000 2 4949     41
+IFF Picture           000008 4 494C424D 41
+GIF 8xa Picture       000000 4 47494638 41
+JFIF JPeg Picture     000006 4 4A464946 41
+PCX Picture           000000 4 0A050108 41
+BMP Picture           000000 2 424D     41
+WAVE Sample           000008 4 57415645 52
+IFF Sample            000009 2 5356     52
+Protracker MOD        00004A 2 0040     51
+MED MDD0              000002 4 4D4D4430 51
+MED MMD1              000002 4 4D4D4431 51
+DOOM Wad file         000001 3 574144   15
